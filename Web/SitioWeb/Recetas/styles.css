@@ -1,0 +1,64 @@
+body {
+    font-family: Farro;
+    background-color: #555;
+}
+
+.contenedorPrincipal {
+    background-color: #fff8e1;
+    border: 0.3rem solid #000;
+    border-radius: 0.5rem;
+}
+
+.tituloContenedor {
+    background-color: #ff7a00;
+    height: 5rem;
+    content-visibility: auto;
+    border-bottom: 0.2rem solid #000;
+}
+
+h1 {
+    text-align:center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+p {
+    color: #4e342e;
+    padding-bottom: 0.5rem;
+}
+
+a {
+    text-decoration:underline;
+    text-decoration-color: #4e342e;
+}
+
+.menuContenedor {
+    font-weight: bold;
+    background-color:#ffc107;
+    border-bottom: 0.1rem solid #000;
+}
+
+.indices {
+    margin: auto;
+    font-size: 1.3rem;
+}
+
+.indice {
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+}
+
+.contenedorContenido {
+    text-align: justify;
+    font-size: 1.1rem;
+    padding: 1.5rem;
+}
+
+h2 {
+    color: #4e342e;
+    text-align: center;
+    font-size: 4rem;
+    margin-top: 1.5rem;
+    border-top: 0.4rem double #000;
+    border-bottom: 0.4rem double #000;
+}
